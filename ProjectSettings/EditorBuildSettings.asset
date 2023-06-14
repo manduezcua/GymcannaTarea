@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BrokenVector/LowPolyDungeon/Demo Scenes/Dungeon_Demo.unity
+    guid: b94ee59f12f411f488e6df197429e012
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bccee2d38e70a244ca1df71d47bbfc22, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e9c55afa4b992474ba39face24cc1357, type: 2}
